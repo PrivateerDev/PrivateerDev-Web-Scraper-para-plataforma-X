@@ -92,7 +92,7 @@ Este proyecto fue creado exclusivamente con fines **educativos y de análisis de
 El uso indebido del mismo puede **violar los Términos de Servicio** de la plataforma X (Twitter).
 **El autor no se hace responsable** por cualquier mal uso del software.
 
----
+s
 
 ## 📫 Contacto
 
